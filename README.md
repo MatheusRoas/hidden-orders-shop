@@ -45,3 +45,13 @@ Bot como Proxy: La comunicación entre administrador y cliente siempre se realiz
 SQLite: Base de datos ligera e ideal para entornos que requieren una implementación rápida y sencilla.
 🌟 Créditos
 Este proyecto fue desarrollado por Matehus (MylasYearIlive)
+
+
+![image](https://github.com/user-attachments/assets/87860395-7bee-4dad-b537-72495948a972)
+![image](https://github.com/user-attachments/assets/b322f976-44cc-47fe-b6f1-8e9c39f351bb)
+
+![image](https://github.com/user-attachments/assets/d2bfe374-834f-4561-b45e-89bc177e8324)
+![image](https://github.com/user-attachments/assets/dc487d01-5f89-41dc-8472-9bd281d0c508)
+
+
+
