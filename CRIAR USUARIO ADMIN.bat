@@ -1,0 +1,1 @@
+php admin_init.php
