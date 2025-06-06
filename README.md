@@ -1,5 +1,9 @@
 🌿 Hidden Orders Shop - Sistema de Pedidos y Chat vía Bot de Telegram
 Este proyecto es un sistema completo para gestionar pedidos y facilitar la comunicación entre el administrador y los clientes, todo orquestado a través de un bot de Telegram. El enfoque principal es la simplicidad, seguridad y anonimato para el usuario final, utilizando códigos de acceso para la entrada a la tienda y el bot como un proxy de comunicación.
+![image](https://github.com/user-attachments/assets/87860395-7bee-4dad-b537-72495948a972) ![image](https://github.com/user-attachments/assets/b322f976-44cc-47fe-b6f1-8e9c39f351bb)
+
+![image](https://github.com/user-attachments/assets/d2bfe374-834f-4561-b45e-89bc177e8324) ![image](https://github.com/user-attachments/assets/dc487d01-5f89-41dc-8472-9bd281d0c508)
+
 
 ✨ Características Principales
 Sistema de Acceso por Código: Los clientes requieren un código único y temporal para acceder a la plataforma de pedidos.
@@ -46,9 +50,7 @@ SQLite: Base de datos ligera e ideal para entornos que requieren una implementac
 🌟 Créditos
 Este proyecto fue desarrollado por Matehus (MylasYearIlive)
 
-![image](https://github.com/user-attachments/assets/87860395-7bee-4dad-b537-72495948a972) ![image](https://github.com/user-attachments/assets/b322f976-44cc-47fe-b6f1-8e9c39f351bb)
 
-![image](https://github.com/user-attachments/assets/d2bfe374-834f-4561-b45e-89bc177e8324) ![image](https://github.com/user-attachments/assets/dc487d01-5f89-41dc-8472-9bd281d0c508)
-
-
+"AQUÍ EN LA WIKI DEL PROYECTO ENSEÑO CÓMO CONSEGUIR ALOJAR ALGO CON ANONIMATO, INCLUSO SI ES LOCAL, EVITANDO TENER QUE METER COSAS EN EL MICROONDAS JAJAJJAA
+https://github.com/MatheusRoas/hidden-orders-shop/wiki/Guía-Completa:-Crear-un-Sitio-.onion-(Gratis-y-de-Pago)
 
