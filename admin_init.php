@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS admin (
 ");
 
 $username = 'admin';
-$senha_hash = '$2y$10$68Z76N.Jb0y4xEYdsMh5YuaFW2lpzRxUjJk60zjqqtU.MMoQk7eqS';
+$senha_hash = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 
 $stmt = $db->prepare("SELECT COUNT(*) FROM admin WHERE username = ?");
 $stmt->execute([$username]);
